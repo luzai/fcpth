@@ -1,0 +1,17 @@
+work_space
+log*
+__pycache__
+.idea
+*.dat
+*.npy
+*.pth.tar
+*.pkl
+.ipynb_checkpoints
+*.ipynb
+*.pyc
+arc
+train.configs
+*.jpg
+*.png
+*.ipynb
+*.pk
